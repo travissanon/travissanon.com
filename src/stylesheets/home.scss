@@ -1,0 +1,145 @@
+@import "./index.scss";
+
+.header {
+  font-family: "IBM Plex Sans", sans-serif;
+  display: flex;
+  justify-content: space-between;
+  margin: 20px 0;
+
+  &__title-name {
+    font-weight: 600;
+    padding-left: 10px;
+    font-size: 1.2rem;
+
+    a {
+      text-decoration: none;
+      color: $black-primary;
+    }
+
+    @media screen and (max-width: 650px) {
+      display: none;
+    }
+  }
+
+  &__title-emoji {
+    position: relative;
+    top: 2px;
+    font-size: 1.3rem;
+  }
+
+  &__navigation {
+    display: flex;
+    max-width: 300px;
+  }
+
+  &__navigation-item {
+    padding: 0 10px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    text-decoration: none;
+    color: $black-primary;
+  }
+}
+
+.introduction {
+  font-family: "IBM Plex Sans", sans-serif;
+  margin: 45px 0;
+
+  &__title {
+    font-size: 45px;
+  }
+
+  &__description {
+    font-size: 20px;
+  }
+
+  span {
+    display: block;
+  }
+
+  @media screen and (min-width: 450px) {
+    &__title {
+      font-size: 50px;
+    }
+
+    span {
+      display: inline;
+    }
+  }
+}
+
+.footer {
+  font-family: "IBM Plex Sans", sans-serif;
+  margin: 45px 0 15px;
+
+  &__social-media-title {
+    font-size: 0.9rem;
+    margin-bottom: 15px;
+  }
+
+  &__social-media-links {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin: 0;
+    max-width: 250px;
+  }
+
+  &__social-media-link a {
+    text-decoration: none;
+    font-size: 0.9rem;
+    color: $black-primary;
+  }
+}
+
+.articles {
+  display: flex;
+  flex-direction: column-reverse;
+  justify-content: center;
+  max-width: 750px;
+
+  &__header {
+    order: 1;
+    font-size: 2rem;
+  }
+
+  &__article {
+    max-width: 745px;
+    padding: 15px 0;
+    transition: all 0.1s;
+
+    &:hover {
+      background-color: $hover-background;
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+
+    @media screen and (min-width: 850px) {
+    }
+  }
+
+  &__article-link {
+    text-decoration: none;
+
+    @media screen and (min-width: 620px) {
+      display: flex;
+      flex-direction: row-reverse;
+      justify-content: space-between;
+    }
+  }
+
+  &__date {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: $grey-primary;
+    white-space: nowrap;
+  }
+
+  &__title {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: $black-primary;
+  }
+}
