@@ -6,9 +6,10 @@ const Introduction = ({ siteTitle }) => (
       <span>👋</span> Hi, I'm Travis
     </h1>
     <p className="introduction__description">
-      I'm a web developer and writer specializing in modern JavaScript. I make
-      things from scratch, contribute to open source, and write about
-      development in an accessible and intuitive way.
+      I'm a front-end developer and semicolon slinger currently focusing on
+      building things for the web. I learn new things and use that knowledge to
+      build stuff from scratch. I'm also interested in sharing knowledge that
+      makes sense.
     </p>
   </div>
 )
