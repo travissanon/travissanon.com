@@ -8,6 +8,7 @@
 import React from "react"
 import PropTypes from "prop-types"
 import { useStaticQuery, graphql } from "gatsby"
+import { Helmet } from "react-helmet"
 
 import Header from "./header"
 import Footer from "./footer"
@@ -34,6 +35,10 @@ const Layout = ({ children }) => {
           paddingTop: 0,
         }}
       >
+        <Helmet>
+          <title>Travis Sanon</title>
+          <meta name="description" content="I'm a front-end developer and semicolon slinger currently focusing on building things for the web. I learn new things and use that knowledge to build stuff from scratch. I'm also interested in sharing knowledge that makes sense." />
+        </Helmet>
         <main>{children}</main>
       </div>
       <Footer />
