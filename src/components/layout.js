@@ -37,7 +37,7 @@ const Layout = ({ children }) => {
       >
         <Helmet>
           <title>Travis Sanon</title>
-          <meta name="description" content="I'm a front-end developer and semicolon slinger currently focusing on building things for the web. I learn new things and use that knowledge to build stuff from scratch. I'm also interested in sharing knowledge that makes sense." />
+          <meta name="description" content="I'm a front-end developer and semicolon slinger currently focusing on building things for the web. I learn new things and use that knowledge to build stuff from scratch." />
         </Helmet>
         <main>{children}</main>
       </div>
