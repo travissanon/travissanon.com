@@ -1,5 +1,5 @@
 ---
-path: "/blog/my-second-post"
+path: "/blog/var-let-const"
 date: "2019-09-01"
 title: "The Difference Between Var, Let, And Const"
 ---
