@@ -4,9 +4,9 @@ import { Link } from "gatsby"
 const Header = ({ siteTitle }) => (
   <header className="header">
     <div className="header__title">
-      <span className="header__title-emoji" role="img">
+      {/* <span className="header__title-emoji" role="img">
         🌑
-      </span>
+      </span> */}
       <span className="header__title-name">
         <Link to="/">Travis Sanon</Link>
       </span>
