@@ -38,7 +38,7 @@ const Posts = () => (
       return (
         <div className="articles">
           <h1 className="articles__header">Articles</h1>
-          {Posts}
+          <div className="articles__container">{Posts}</div>
         </div>
       )
     }}

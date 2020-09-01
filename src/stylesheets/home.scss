@@ -93,25 +93,28 @@
 }
 
 .articles {
-  display: flex;
-  flex-direction: column-reverse;
-  justify-content: center;
-  max-width: 750px;
+  max-width: 100%;
 
   &__header {
+    width: 750px;
     order: 1;
     font-size: 2rem;
   }
 
+  &__container {
+    display: grid;
+    align-items: stretch;
+    margin-left: -1rem;
+    margin-right: -1rem;
+  }
+
   &__article {
-    max-width: 745px;
-    padding: 15px 0;
+    width: 750px;
+    padding: 15px;
     transition: all 0.1s;
 
     &:hover {
       background-color: $hover-background;
-      padding-left: 15px;
-      padding-right: 15px;
     }
 
     @media screen and (min-width: 850px) {
