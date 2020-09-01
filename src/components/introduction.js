@@ -11,6 +11,10 @@ const Introduction = ({ siteTitle }) => (
       build stuff from scratch. I'm also interested in sharing knowledge that
       makes sense.
     </p>
+    <div className="introduction__cta">
+      <a href="https://travissanon.substack.com/subscribe" target="_blank" class="button">Join Newsletter</a>
+      <a href="https://www.youtube.com/c/DevMaterial/featured" target="_blank" class="button button--red">Subscribe on Youtube</a>
+    </div>
   </div>
 )
 

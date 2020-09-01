@@ -6,4 +6,22 @@ $black-primary: #211a1d;
 
 $hover-background: rgba(156, 147, 255, 0.075);
 $link-background: rgba(128, 117, 255, 0.3);
-$link-background-hovered: rgba(128, 117, 255, 0.5);
+$link-background-hovered: rgba(77, 108, 250, 0.5);
+
+.button {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+    background: $purple-primary;
+
+    &:hover {
+        opacity: 0.7;
+    }
+
+    &--red {
+        background: #FA4C6C;
+    }
+}
