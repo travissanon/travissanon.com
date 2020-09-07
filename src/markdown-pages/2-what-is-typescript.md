@@ -2,6 +2,7 @@
 path: "/blog/what-is-typescript"
 date: "2019-09-02"
 title: "What is Typescript?"
+tags: ["typescript", "javascript"]
 ---
 
 _Taken from Wikipedia:_

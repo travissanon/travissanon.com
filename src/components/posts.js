@@ -14,6 +14,7 @@ const Posts = () => (
                 date(formatString: "MMM DD, YYYY")
                 path
                 title
+                tags
               }
             }
           }
@@ -29,8 +30,17 @@ const Posts = () => (
         return (
           <div className="articles__article" key={i}>
             <a className="articles__article-link" href={post.path}>
-              <div className="articles__date">{post.date}</div>
-              <div className="articles__title">{post.title}</div>
+              <div className="articles__metadata">
+                <div className="articles__date">{post.date}</div>
+                <div className="articles__title">{post.title}</div>
+              </div>
+              <div className="articles__tags">
+                {post.tags.map((tag, i) => {
+                  return (
+                    <span className="articles__tag" key={i}>{tag}</span>
+                  )
+                })}
+              </div>
             </a>
           </div>
         )

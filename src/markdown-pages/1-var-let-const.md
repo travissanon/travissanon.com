@@ -2,6 +2,7 @@
 path: "/blog/var-let-const"
 date: "2019-09-01"
 title: "The Difference Between Var, Let, And Const"
+tags: ["javascript", "fundementals"]
 ---
 
 ### The Differences

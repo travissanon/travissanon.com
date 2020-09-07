@@ -1,5 +1,6 @@
 import React from "react"
 import "../stylesheets/articles.scss"
+import "../stylesheets/videos.scss"
 
 import Layout from "../components/layout"
 import Posts from "../components/posts"

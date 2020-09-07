@@ -5,10 +5,11 @@
   display: flex;
   justify-content: space-between;
   margin: 20px 0;
+  width: 1080px;
+  // max-width: 100%;
 
   &__title-name {
     font-weight: 600;
-    padding-left: 10px;
     font-size: 1.2rem;
 
     a {
@@ -30,12 +31,13 @@
   &__navigation {
     display: flex;
     max-width: 300px;
+    justify-content: space-between;
   }
 
   &__navigation-item {
-    padding: 0 10px;
     font-size: 0.9rem;
     font-weight: 500;
+    padding-left: 20px;
     text-decoration: none;
     color: $black-primary;
   }
@@ -108,7 +110,7 @@
   max-width: 100%;
 
   &__header {
-    width: 750px;
+    width: 1080px;
     order: 1;
     font-size: 2rem;
   }
@@ -121,7 +123,7 @@
   }
 
   &__article {
-    width: 750px;
+    width: 1110px;
     padding: 15px;
     transition: all 0.1s;
 
@@ -138,8 +140,9 @@
 
     @media screen and (min-width: 620px) {
       display: flex;
-      flex-direction: row-reverse;
+      flex-direction: row;
       justify-content: space-between;
+      align-items: center;
     }
   }
 
@@ -156,5 +159,20 @@
     font-size: 0.95rem;
     font-weight: 500;
     color: $black-primary;
+  }
+
+  &__tags {
+    height: 100%;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 0.8rem;
+    text-decoration: none;
+    color: $black-primary;
+    font-weight: 500;
+  }
+
+  &__tag {
+    background: #FFDADA;
+    padding: 5px 10px;
+    margin-left: 10px;
   }
 }

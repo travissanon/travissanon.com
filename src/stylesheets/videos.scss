@@ -1,0 +1,31 @@
+.videos {
+    width: 1080px;
+
+    &--homepage {
+        padding: 40px 0 0 0;
+    }
+    &__container {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+    &__metadata {
+        margin-bottom: 30px;
+    }
+    &__title {
+        font-family: "IBM Plex Sans", sans-serif;
+        font-size: 20px;
+        font-weight: 600;
+        color: #211a1d;
+    }
+    &__date {
+        font-family: "IBM Plex Sans", sans-serif;
+        font-size: 14px;
+        font-weight: 400;
+        color: #211a1d;
+    }
+
+    #ytplayer {
+        margin-bottom: 5px;
+    }
+}
