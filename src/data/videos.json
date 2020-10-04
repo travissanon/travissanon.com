@@ -1,0 +1,1559 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "J82k-fhlkxGwnWPINp2kssb_2QA",
+  "nextPageToken": "CDIQAA",
+  "regionCode": "US",
+  "pageInfo": { "totalResults": 88, "resultsPerPage": 50 },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gwQsRMM5POblodNiFR_4j-dIoYc",
+      "id": { "kind": "youtube#video", "videoId": "7K2rDNOlEes" },
+      "snippet": {
+        "publishedAt": "2017-12-03T19:00:01Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "JS Explained - What is React.js?",
+        "description": "React.js is a Javascript library that has skyrocketed in popularity lately. This video will briefly explain what React.js is and why it was created by Facebook.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7K2rDNOlEes/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7K2rDNOlEes/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7K2rDNOlEes/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-12-03T19:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "c-TQU_C0BxbK9fJjyJHRidiEhhY",
+      "id": { "kind": "youtube#video", "videoId": "qz7Nq1tV7Io" },
+      "snippet": {
+        "publishedAt": "2018-11-07T21:12:44Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Javascript Function Expression Vs Declaration For Beginners",
+        "description": "Understand the difference between a javascript function expression vs declaration. The primary difference is that a function declaration loads before any code is ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qz7Nq1tV7Io/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qz7Nq1tV7Io/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qz7Nq1tV7Io/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-07T21:12:44Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hzLfFcpdITE6ifuvdwu85L5GOBs",
+      "id": { "kind": "youtube#video", "videoId": "yF7QRD04Q2g" },
+      "snippet": {
+        "publishedAt": "2019-09-19T16:00:11Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "What is Typescript? - Why Typescript is better than Javascript",
+        "description": "What is Typescript? Learn why Typescript is better than Javascript by understanding what the language is, how we use it, and why should we use it. Typescript ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yF7QRD04Q2g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yF7QRD04Q2g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yF7QRD04Q2g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-19T16:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "nk_I1iGauUh2_b_Jv0Q9kuQmcO4",
+      "id": { "kind": "youtube#video", "videoId": "mmwt_Tv122A" },
+      "snippet": {
+        "publishedAt": "2017-09-25T18:00:02Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Jake the Dog CSS Image Speed Drawing",
+        "description": "Today we draw Jake the Dog using HTML and CSS. Check out the original art w/ code: https://codepen.io/DevMaterial/pen/rGagxm *** Follow me on Twitter!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/mmwt_Tv122A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/mmwt_Tv122A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/mmwt_Tv122A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-25T18:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wfozh3gBE7KaIlJ7ftIO6i9Pz5Y",
+      "id": { "kind": "youtube#video", "videoId": "Nda34efbxhM" },
+      "snippet": {
+        "publishedAt": "2017-11-13T20:02:17Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "What is Vanilla Javascript?",
+        "description": "This video will briefly explain what vanilla JS/Javascript is and why its called \"vanilla JS\". We will also explain why plain Javascript is used over other libraries ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Nda34efbxhM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Nda34efbxhM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Nda34efbxhM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-11-13T20:02:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Rj3_PlJnqInGeskLqmcwJlfLsi8",
+      "id": { "kind": "youtube#video", "videoId": "Tr75futUlcs" },
+      "snippet": {
+        "publishedAt": "2018-07-27T18:55:17Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "How to use the Fetch API with React.js",
+        "description": "Lets take a look at how to use the Fetch API with React for making requests and fetching data. #100DaysOfCode. ** Buy me a Coffee: https://ko-fi.com/w7w5kojw ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tr75futUlcs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tr75futUlcs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tr75futUlcs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-27T18:55:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "D7Z4AaMfGfxPQaSv0y16nTa3TDY",
+      "id": { "kind": "youtube#video", "videoId": "63Kx48Ho-1M" },
+      "snippet": {
+        "publishedAt": "2017-09-11T19:00:00Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Saitama Image CSS Speed Drawing",
+        "description": "One Punch Man | Saitama CSS Speed Drawing Who hasn't watched One Punch Man? I took the time to code up the plain face of a main character we all know ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/63Kx48Ho-1M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/63Kx48Ho-1M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/63Kx48Ho-1M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-11T19:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zjiFoxphpVgOioaLtSzGcFTA7J8",
+      "id": { "kind": "youtube#video", "videoId": "Mkg6DvWlAJc" },
+      "snippet": {
+        "publishedAt": "2019-10-16T11:00:03Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "What To Learn Before A Javascript Framework",
+        "description": "What to learn before a Javascript framework? In this video, I will explain why you should have a great understanding of vanilla Javascript before getting into any ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mkg6DvWlAJc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mkg6DvWlAJc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mkg6DvWlAJc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-16T11:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BYoTPnCoOWLDtXiYhAc4j1h1eB4",
+      "id": { "kind": "youtube#video", "videoId": "_eJGXOSvcXA" },
+      "snippet": {
+        "publishedAt": "2017-01-13T03:52:57Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Lets make a Quote Generator with jQuery",
+        "description": "Programming Algorithms For Beginners - Selection Sort A (reasonably) short guide on how to create a quote generator with jQuery. Resources: Github Repo ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_eJGXOSvcXA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_eJGXOSvcXA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_eJGXOSvcXA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-01-13T03:52:57Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5U2_rH3fS7g91DqZTCJSPx2KyFI",
+      "id": { "kind": "youtube#video", "videoId": "zut-_5GsD64" },
+      "snippet": {
+        "publishedAt": "2019-09-25T15:00:13Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "VSCode Themes - 5 Great Visual Studio Code Themes to Try Out",
+        "description": "Here are 5 great VSCode themes to try out. Visual Studio Code is an amazing text editor with plenty of options for customization. Lets take a look at some themes ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zut-_5GsD64/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zut-_5GsD64/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zut-_5GsD64/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-25T15:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "m1StCR4CosvDxDkmeidhEreTB5k",
+      "id": { "kind": "youtube#video", "videoId": "bkjc1w4CX2c" },
+      "snippet": {
+        "publishedAt": "2017-09-26T23:51:53Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Programming Algorithms For Beginners - Linear Search",
+        "description": "Programming Algorithms For Beginners - Linear Search The Linear Search algorithm is simple search algorithm which is used to find a specific number number ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bkjc1w4CX2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bkjc1w4CX2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bkjc1w4CX2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-26T23:51:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "KH5w8UCEyK37_46AA9WWIIxIGZI",
+      "id": { "kind": "youtube#video", "videoId": "6B7W9RX97qE" },
+      "snippet": {
+        "publishedAt": "2018-03-27T02:40:32Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "CodeFights Intro Algorithms - Adjacent Elements Product",
+        "description": "A (reasonably) short guide on how to solve the CodeFights intro algorithm \"Adjacent Elements Product\". *** Follow me on Twitter! https://twitter.com/DevMaterial ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6B7W9RX97qE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6B7W9RX97qE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6B7W9RX97qE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-27T02:40:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cOY2Y2VT8EOIDSHmqd__BtPIfi0",
+      "id": { "kind": "youtube#video", "videoId": "n4UEuZzEPAY" },
+      "snippet": {
+        "publishedAt": "2020-03-23T12:00:28Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "The 3 Best VSCode Extensions - 2020",
+        "description": "Here are 5 great VSCode extensions to try out. Visual Studio Code is an amazing text editor with plenty of options for customization. Lets take a look at some ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/n4UEuZzEPAY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/n4UEuZzEPAY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/n4UEuZzEPAY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-03-23T12:00:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ib2S5C0pjunrS2O0aPhSwmKFDkM",
+      "id": { "kind": "youtube#video", "videoId": "VyVeBPxbBbw" },
+      "snippet": {
+        "publishedAt": "2017-07-05T16:46:16Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "CodeFights Intro Algorithms - Century From Year",
+        "description": "A (reasonably) short guide on how to solve the CodeFights intro algorithm \"centuryFromYear\" Follow me on Twitter: https://twitter.com/DevMaterial My Github: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/VyVeBPxbBbw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/VyVeBPxbBbw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/VyVeBPxbBbw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-05T16:46:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "N5WlDMtiURqf1qDx9E-kLcN9Unc",
+      "id": { "kind": "youtube#video", "videoId": "eJGSKtRrQ7w" },
+      "snippet": {
+        "publishedAt": "2019-10-09T18:57:49Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "How Long Should You Code Everyday?",
+        "description": "How long should you code everyday and what can you do to make the most of it? I will go over how long you should code in different stages of your career what ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/eJGSKtRrQ7w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/eJGSKtRrQ7w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/eJGSKtRrQ7w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-10-09T18:57:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yGoqzyi0n2vlP_RNGByn602M9V8",
+      "id": { "kind": "youtube#video", "videoId": "z-4QRQOuV0Y" },
+      "snippet": {
+        "publishedAt": "2018-10-08T16:00:08Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "3 Great Visual Studio Code Themes to Try Out",
+        "description": "Three great Visual Studio Code themes you should consider having in your arsenal. VSCode Themes: DuoTone: https://marketplace.visualstudio.com/items?",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/z-4QRQOuV0Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/z-4QRQOuV0Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/z-4QRQOuV0Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-08T16:00:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "DeflPCkKOBX04BqVPmn04XHrIOs",
+      "id": { "kind": "youtube#video", "videoId": "Di0kVOKgz80" },
+      "snippet": {
+        "publishedAt": "2017-10-02T19:49:58Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Finn the Human CSS Image Drawing",
+        "description": "Today we draw Jake the Dog using HTML and CSS. Check out the original art w/ code: https://codepen.io/DevMaterial/pen/wrqVrq *** Follow me on Twitter!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Di0kVOKgz80/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Di0kVOKgz80/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Di0kVOKgz80/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-02T19:49:58Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZOfYv4RUBDtPLAC_mgcX7S8StpQ",
+      "id": { "kind": "youtube#video", "videoId": "EeGIazpojA8" },
+      "snippet": {
+        "publishedAt": "2018-07-23T18:00:01Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Project Euler - Multiples of 3 and 5 in JavaScript #ProjectEuler100",
+        "description": "Algorithms in Javascript - Multiples of 3 and 5 (Project Euler) ---------------------------------------------------------------------------------- This is a walkthrough of problem 1 in ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EeGIazpojA8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EeGIazpojA8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EeGIazpojA8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-07-23T18:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zQEkV9znaZJS_Tx2c9b2MktppnI",
+      "id": { "kind": "youtube#video", "videoId": "pbxI3bY3muU" },
+      "snippet": {
+        "publishedAt": "2017-10-26T16:58:50Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Learn Sass for Beginners: 4 - Math Operators and Functions",
+        "description": "Learn Sass for Beginners: 4 - Math Operators and Functions Sass is a CSS preprocessor, which is a scripting language that extends CSS by allowing devs to ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pbxI3bY3muU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pbxI3bY3muU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pbxI3bY3muU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-26T16:58:50Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bAOApqc8s8X1hCeWdi1ZDiRDdeQ",
+      "id": { "kind": "youtube#video", "videoId": "Lg-pk_2_kCk" },
+      "snippet": {
+        "publishedAt": "2017-10-10T17:47:04Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Learn Sass For Beginners: 0 - What is Sass?",
+        "description": "Learn Sass For Beginners: 0 - What is Sass? In this first tutorial, I will introduce what Sass is, explain my file structure and how I compile Sass to CSS. Sass is a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Lg-pk_2_kCk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Lg-pk_2_kCk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Lg-pk_2_kCk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-10T17:47:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "TSItKB-KXhtx1sxk6wZHs4aTgxs",
+      "id": { "kind": "youtube#video", "videoId": "7BjzhKdQSkM" },
+      "snippet": {
+        "publishedAt": "2018-04-30T19:40:10Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "What Is Software Testing &amp; TDD?",
+        "description": "Today, we are going to talk about software testing and test driven development (TDD). Think of software testing as using code to test your code. The process ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7BjzhKdQSkM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7BjzhKdQSkM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7BjzhKdQSkM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-04-30T19:40:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "S1-GTA0ThnPlbLRthkrwUWjSEFY",
+      "id": { "kind": "youtube#video", "videoId": "qbWpv1JoiE4" },
+      "snippet": {
+        "publishedAt": "2020-01-20T22:17:25Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "JavaScript forEach - Array Methods Explained",
+        "description": "Javascript forEach is a useful function introduced in ECMAScript 2015, which allows us to run a provided function once for each array element. This video goes ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qbWpv1JoiE4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qbWpv1JoiE4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qbWpv1JoiE4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-20T22:17:25Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "dVHofKllO2y1Hf1XqXbE5Pu_jF0",
+      "id": { "kind": "youtube#video", "videoId": "Y2bLPOviyaw" },
+      "snippet": {
+        "publishedAt": "2016-06-28T16:16:30Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Lets Make a Clock with Javascript",
+        "description": "Lets Make a Clock with Javascript Lets look at the process of creating a digital clock with Javascript. Here is the Gihub repository: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y2bLPOviyaw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y2bLPOviyaw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y2bLPOviyaw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-06-28T16:16:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JiUaZ_1Xk91hMfTBWAdHMZL7XI8",
+      "id": { "kind": "youtube#video", "videoId": "liFq5oebd-A" },
+      "snippet": {
+        "publishedAt": "2017-07-09T17:52:49Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "CodeFights Intro Algorithms - Check Palindrome",
+        "description": "A (reasonably) short guide on how to solve the CodeFights intro algorithm \"check palindrome\". Follow me on Twitter: https://twitter.com/DevMaterial My Github: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/liFq5oebd-A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/liFq5oebd-A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/liFq5oebd-A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-09T17:52:49Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BDoSRPbPtMLZMjS4DxDOfqHddIk",
+      "id": { "kind": "youtube#video", "videoId": "qWi6dDd4fg4" },
+      "snippet": {
+        "publishedAt": "2017-07-12T23:30:17Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Programming Algorithms For Beginners - Selection Sort",
+        "description": "Programming Algorithms For Beginners - Selection Sort The Selection Sort algorithm is a very simple sorting algorithm. The algorithm is used to sort a sequence ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qWi6dDd4fg4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qWi6dDd4fg4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qWi6dDd4fg4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-12T23:30:17Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oezCMRhuEOb4agp7eRtHSMrdRpI",
+      "id": { "kind": "youtube#video", "videoId": "-3un3fxpFh0" },
+      "snippet": {
+        "publishedAt": "2017-10-27T20:12:32Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Learn Sass for Beginners: 5 - Imports",
+        "description": "Learn Sass for Beginners: 5 - Imports This tutorial will explain how imports work. Sass is a CSS preprocessor, which is a scripting language that extends CSS by ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-3un3fxpFh0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-3un3fxpFh0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-3un3fxpFh0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-27T20:12:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "lGE7Ec3ZAKn8eZVglTvfuYXkdI0",
+      "id": { "kind": "youtube#video", "videoId": "BmETNpKP6h0" },
+      "snippet": {
+        "publishedAt": "2018-10-10T16:55:19Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Bash Terminal Commands For Beginners",
+        "description": "This video is going to go over the basic bash terminal commands. The bash terminal is an essential tool for a developer, ad it significantly improves workflow and ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BmETNpKP6h0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BmETNpKP6h0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BmETNpKP6h0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-10-10T16:55:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tuDaupc4__ltUFeUGE0iLST-mt8",
+      "id": { "kind": "youtube#video", "videoId": "Y_GsUDi2Td8" },
+      "snippet": {
+        "publishedAt": "2017-07-10T16:00:05Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "FreeCodeCamp Basic Algorithms - Reverse a String",
+        "description": "Programming Algorithms For Beginners - Selection Sort A (reasonably) short guide on how to solve the FreeCodeCamp basic algorithm \"Reverse a String\" ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y_GsUDi2Td8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y_GsUDi2Td8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y_GsUDi2Td8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-10T16:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "X0uQ2gqZpXgRdzUF5QAG2ytbRRg",
+      "id": { "kind": "youtube#video", "videoId": "o6Lxb8Ai6Bc" },
+      "snippet": {
+        "publishedAt": "2020-05-01T17:47:14Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Coding a Mobile App UI | My Anime List [1]: Menu Bar",
+        "description": "Lets create a mobile app UI using HTML/CSS and JavaScript. I'm going to build out a redesign of the popular review site \"My Anime List\" in a brutalist style.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/o6Lxb8Ai6Bc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/o6Lxb8Ai6Bc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/o6Lxb8Ai6Bc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-05-01T17:47:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "aokPkykLGsFeF8CexuRnwAjXsuw",
+      "id": { "kind": "youtube#video", "videoId": "DXmiH0hBNzU" },
+      "snippet": {
+        "publishedAt": "2016-04-06T02:59:33Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Intro to HTML 3 - Semantic Markup (1)",
+        "description": "This video goes into depth about semantic markup. *Watch the last video: Intro to HTML 2- Structural Tags https://www.youtube.com/watch?v=4rnFvqaY-go.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DXmiH0hBNzU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DXmiH0hBNzU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DXmiH0hBNzU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-04-06T02:59:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-UF6HciPhWEQRVkpEVpiDViFg2s",
+      "id": { "kind": "youtube#video", "videoId": "lCMb7rT3gYE" },
+      "snippet": {
+        "publishedAt": "2017-10-12T18:00:04Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Learn Sass for Beginners: 2 - Parent Selector",
+        "description": "Learn Sass for Beginners: 2 - Parent Selector In this tutorial, I will explain how the parent selector works in Sass. Sass is a CSS preprocessor, which is a scripting ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lCMb7rT3gYE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lCMb7rT3gYE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lCMb7rT3gYE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-12T18:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gB2s9J-p6_SzI5Q3jL2yVn-fcMg",
+      "id": { "kind": "youtube#video", "videoId": "4qLxYfdn9-M" },
+      "snippet": {
+        "publishedAt": "2017-09-17T16:47:26Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "FreeCodeCamp Basic Algorithms - Factorialize a Number",
+        "description": "FreeCodeCamp Basic Algorithms - Factorialize a Number A (reasonably) short guide on how to solve the FreeCodeCamp basic algorithm \"Factorialize a ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4qLxYfdn9-M/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4qLxYfdn9-M/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4qLxYfdn9-M/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-17T16:47:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JknGeX3VeWYuhzF2MWzehN1FjYo",
+      "id": { "kind": "youtube#video", "videoId": "7RkzDgjICA4" },
+      "snippet": {
+        "publishedAt": "2016-05-31T00:36:07Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "How to Make a Webpage With HTML and a Web Browser",
+        "description": "A short video on how to make a webpage with HTML and a web browser. *************************** Github: https://github.com/DevMaterial Twitter: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/7RkzDgjICA4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/7RkzDgjICA4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/7RkzDgjICA4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-05-31T00:36:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LZHBL8xHfu8I_Vh5NbDj6jVsXXQ",
+      "id": { "kind": "youtube#video", "videoId": "d2xAAxMf5_A" },
+      "snippet": {
+        "publishedAt": "2017-10-11T17:39:16Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Learn Sass For Beginners: 1 - Nesting CSS",
+        "description": "Learn Sass For Beginners: 1 - Nesting CSS In this tutorial, I will explain the nested and visual hierarchy in Sass. Sass is a CSS preprocessor, which is a scripting ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d2xAAxMf5_A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d2xAAxMf5_A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d2xAAxMf5_A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-11T17:39:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "uIdKSZrX_dxoaD9Pm-AP3coTip4",
+      "id": { "kind": "youtube#video", "videoId": "tNz4V7nVzGI" },
+      "snippet": {
+        "publishedAt": "2019-08-14T18:20:54Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "How to Become A Successful Employee (Software Development)",
+        "description": "If you landed your first development job, or if you are a struggling employee, then this video for you. Today I'll be sharing 4 improvements that Ive learned that ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tNz4V7nVzGI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tNz4V7nVzGI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tNz4V7nVzGI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-08-14T18:20:54Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "W1vCT-lGxR67s6O4uTs7IIirzoQ",
+      "id": { "kind": "youtube#video", "videoId": "vKIhoGukMVA" },
+      "snippet": {
+        "publishedAt": "2017-07-11T14:29:28Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Programming Algorithms for Beginners - Bubble Sort",
+        "description": "Programming Algorithms For Beginners - Selection Sort The Bubble Sort algorithm is one of the simplest and noob friendly sorting algorithms out of the bunch.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/vKIhoGukMVA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/vKIhoGukMVA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/vKIhoGukMVA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-11T14:29:28Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cifS2anaC4WaSAKHzBH7YAN_up0",
+      "id": { "kind": "youtube#video", "videoId": "DlFy2FASyt4" },
+      "snippet": {
+        "publishedAt": "2016-05-08T22:03:52Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Website Speed Sketch - Syrebral: A Photographer&#39;s Website / Part 2",
+        "description": "Just decided to record my latest website design on sketch. It is a photography website that will have the functionality of most generic photographer websites.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DlFy2FASyt4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DlFy2FASyt4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DlFy2FASyt4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-05-08T22:03:52Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mglhLQHH8Lr18MKfIzss05wF63A",
+      "id": { "kind": "youtube#video", "videoId": "9a4aTd1XQZo" },
+      "snippet": {
+        "publishedAt": "2018-03-05T17:00:02Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Batman Symbol - HTML5 Canvas Illustration",
+        "description": "Batman Symbol - HTML5 Canvas Illustration I wanted to try something a bit different and decided to create the batman symbol using HTML5's canvas. Check out ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9a4aTd1XQZo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9a4aTd1XQZo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9a4aTd1XQZo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-03-05T17:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Ogr1Owtgh0XPkVLW-hkJ2AbX1O0",
+      "id": { "kind": "youtube#video", "videoId": "1UlMmwUGtWM" },
+      "snippet": {
+        "publishedAt": "2020-01-24T14:33:36Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "JavaScript map - Array Methods Explained",
+        "description": "JavaScript map is a useful higher order function introduced in ECMAScript 2015, which allows us to create a new array with the results of executing a function on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1UlMmwUGtWM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1UlMmwUGtWM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1UlMmwUGtWM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-24T14:33:36Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "0iDJUsCR0S_Ezob5vY-u5sRhDW8",
+      "id": { "kind": "youtube#video", "videoId": "JsHQwmirC6s" },
+      "snippet": {
+        "publishedAt": "2017-10-13T18:08:26Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Learn Sass for Beginners: 3 - Variables",
+        "description": "Learn Sass for Beginners: 3 - Variables In this tutorial, I will explain Sass variables. Sass is a CSS preprocessor, which is a scripting language that extends CSS ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JsHQwmirC6s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JsHQwmirC6s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JsHQwmirC6s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-13T18:08:26Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3fYNQc9ecrHiKBL44Q7wyPsxRlw",
+      "id": { "kind": "youtube#video", "videoId": "xHcIId_e_W0" },
+      "snippet": {
+        "publishedAt": "2016-05-08T21:45:08Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Website Speed Sketch - Syrebral: A Photographer&#39;s Website",
+        "description": "Just decided to record my latest website design on sketch. It is a photography website that will have the functionality of most generic photographer websites.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xHcIId_e_W0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xHcIId_e_W0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xHcIId_e_W0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-05-08T21:45:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iZIQPNvrGbeeXTXlKe6wMujCtY0",
+      "id": { "kind": "youtube#video", "videoId": "4rnFvqaY-go" },
+      "snippet": {
+        "publishedAt": "2016-03-28T18:04:34Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Intro to HTML 2 - Structural Tags (pt.1)",
+        "description": "A (reasonably) short guide on HTML5's structural tags. Structural tags are an essential part of HTML which consists of the header tags, p tag, and so on. **Follow ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4rnFvqaY-go/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4rnFvqaY-go/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4rnFvqaY-go/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-28T18:04:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "QIMT4iwzUMSO56sgAu8O6Xdes8o",
+      "id": { "kind": "youtube#video", "videoId": "_ZVB5WaKmTg" },
+      "snippet": {
+        "publishedAt": "2017-04-19T23:47:31Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "How to Download Instagram Photos",
+        "description": "A (reasonably) short guide on how to download images from Instagram. My Github: https://github.com/DevMaterial My Twitter: https://twitter.com/DevMaterial Intro ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_ZVB5WaKmTg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_ZVB5WaKmTg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_ZVB5WaKmTg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-04-19T23:47:31Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "NIF1mqVgqHezxyBhmX35r1mkVjk",
+      "id": { "kind": "youtube#video", "videoId": "Tj7SPSs6K44" },
+      "snippet": {
+        "publishedAt": "2016-05-16T18:39:33Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Intro to HTML 4 - Structural Tags (pt.2)",
+        "description": "This is a follow-up of the first video about structural tags. Structural tags are an essential part of HTML which consists of the header tags, p tag, and so on.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Tj7SPSs6K44/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Tj7SPSs6K44/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Tj7SPSs6K44/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-05-16T18:39:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oiXf8za9zhANkp3nfiPxkuW9yb0",
+      "id": { "kind": "youtube#video", "videoId": "uHbW_AONnKk" },
+      "snippet": {
+        "publishedAt": "2017-09-27T18:00:02Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "FreeCodeCamp Basic Algorithms - Check for Palindrome",
+        "description": "FreeCodeCamp Basic Algorithms - Check for Palindrome A (reasonably) short guide on how to solve the FreeCodeCamp basic algorithm \"Check for ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uHbW_AONnKk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uHbW_AONnKk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uHbW_AONnKk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-09-27T18:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "UBsSL8cNQXT1FTk5PjzxPTd2zj4",
+      "id": { "kind": "youtube#video", "videoId": "2j6ExEHgOMo" },
+      "snippet": {
+        "publishedAt": "2020-01-28T01:21:06Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "JavaScript map() and forEach() - Array Methods Explained",
+        "description": "This video combines two videos I did on the JavaScript map() and forEach() array methods. Join the discord group! https://discord.gg/XMUzMaU My Twitter: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2j6ExEHgOMo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2j6ExEHgOMo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2j6ExEHgOMo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2020-01-28T01:21:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3exuwH3MwuPRcaymDQIBO9nrvq4",
+      "id": { "kind": "youtube#video", "videoId": "25VKl_kUw-w" },
+      "snippet": {
+        "publishedAt": "2017-07-07T01:45:46Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "CodeFights Intro Algorithms - Add",
+        "description": "A (reasonably) short guide on how to solve the CodeFights intro algorithm \"add\" Follow me on Twitter: https://twitter.com/DevMaterial My Github: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/25VKl_kUw-w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/25VKl_kUw-w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/25VKl_kUw-w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-07T01:45:46Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "zj7cFgjIBTHAKm5R_GOTf0B_2xU",
+      "id": { "kind": "youtube#video", "videoId": "gOmHKM5xOMc" },
+      "snippet": {
+        "publishedAt": "2016-03-27T23:21:23Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Intro to HTML 1 - Essential Tags",
+        "description": "A (reasonably) short guide on the essential tags for HTML5. Essential tags are the minimum HTML you need to create a page. There are four HTML tags that are ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gOmHKM5xOMc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gOmHKM5xOMc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gOmHKM5xOMc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-03-27T23:21:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "eXUSQQr9VTLWXPoy8ENngXzVvvo",
+      "id": { "kind": "youtube#video", "videoId": "9ihh0o-I1AA" },
+      "snippet": {
+        "publishedAt": "2019-09-23T15:00:03Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "TypeScript Tutorial 2019 - Learn The Basics of TypeScript",
+        "description": "TypeScript Tutorial 2019 - Learn The Basics of TypeScript. Learn why Typescript is better than Javascript by understanding what the language is, how we use it, ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9ihh0o-I1AA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9ihh0o-I1AA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9ihh0o-I1AA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-09-23T15:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "HrZeI8O7MSQIBfx5VyJ7KJdo5Mo",
+      "id": { "kind": "youtube#video", "videoId": "cwXmsszo674" },
+      "snippet": {
+        "publishedAt": "2017-10-04T20:14:47Z",
+        "channelId": "UClE-pN-OOQrRUwi6HFHmDpA",
+        "title": "Programming Algorithms For Beginners - Binary Search",
+        "description": "Programming Algorithms For Beginners - Binary Search The video explains how the binary search algorithm works. The algorithm is used to search for a number ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cwXmsszo674/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cwXmsszo674/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cwXmsszo674/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Dev Material",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-10-04T20:14:47Z"
+      }
+    }
+  ]
+}

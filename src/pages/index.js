@@ -12,7 +12,7 @@ const IndexPage = () => {
     <Layout>
       <Introduction />
       <Posts />
-      <Videos />
+      <Videos count={6} />
     </Layout>
   )
 }

@@ -12,8 +12,14 @@ const Header = ({ siteTitle }) => (
       </span>
     </div>
     <div className="header__navigation">
+      <Link className="header__navigation-item" to="/about">
+        About
+      </Link>
       <Link className="header__navigation-item" to="/articles">
         Articles
+      </Link>
+      <Link className="header__navigation-item" to="/videos">
+        Videos
       </Link>
       <a
         href="mailto:traviscsanon@gmail.com"

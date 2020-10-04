@@ -1,3 +1,72 @@
+@import "./index.scss";
+
 .articles {
+  max-width: 100%;
   margin-top: 50px;
+
+  &__header {
+    order: 1;
+    font-size: 2rem;
+    margin-bottom: 18px;
+  }
+
+  &__container {
+    display: grid;
+    align-items: stretch;
+    margin-left: -1rem;
+    margin-right: -1rem;
+  }
+
+  &__article {
+    padding: 15px;
+    transition: all 0.1s;
+
+    &:hover {
+      background-color: $hover-background;
+    }
+
+    @media screen and (min-width: 850px) {
+    }
+  }
+
+  &__article-link {
+    text-decoration: none;
+
+    @media screen and (min-width: 620px) {
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+    }
+  }
+
+  &__date {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: $grey-primary;
+    white-space: nowrap;
+  }
+
+  &__title {
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: $black-primary;
+  }
+
+  &__tags {
+    height: 100%;
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 0.8rem;
+    text-decoration: none;
+    color: $black-primary;
+    font-weight: 500;
+  }
+
+  &__tag {
+    background: #f2f4ff;
+    padding: 5px 10px;
+    margin-left: 10px;
+  }
 }
