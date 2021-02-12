@@ -1,5 +1,42 @@
 @import url("https://fonts.googleapis.com/css?family=IBM+Plex+Mono:400,500,600,600i,700|IBM+Plex+Sans:400,500,600,700&display=swap");
 
+:root {
+    // Font Scale
+    --font-xxs:         0.75rem;    // Plex 12
+    --font-xs:          0.875rem;   // Plex 14
+    --font-sm:          1rem;       // Plex 16
+    --font-md:          1.25rem;    // Plex 20
+    --font-lg:          1.75rem;    // Plex 28
+    --font-xl:          2.25rem;    // Plex 36
+    --font-xxl:         3rem;       // Plex 48
+    --font-xxxl:        4.25rem;    // Plex 68
+
+    // Colors
+    --white:          #ffffff;
+    --midnight:       #161616;
+    --aero-blue:      #E0F5E8;
+
+    // Spacing Scale
+    --spacing-01:       0.125rem;   // 2px
+    --spacing-02:       0.25rem;    // 4px
+    --spacing-03:       0.5rem;     // 8px
+    --spacing-04:       0.75rem;    // 12px
+    --spacing-05:       1rem;       // 16px
+    --spacing-06:       1.5rem;     // 24px
+    --spacing-07:       2rem;       // 32px
+    --spacing-08:       2.5rem;     // 40px
+    --spacing-09:       3rem;       // 48px
+    
+    // Layout Scale
+    --layout-01:       1rem;        // 16px
+    --layout-02:       1.5rem;      // 24px
+    --layout-03:       2rem;        // 32px
+    --layout-04:       3rem;        // 48px
+    --layout-05:       4rem;        // 64px
+    --layout-06:       6rem;        // 96px
+    --layout-07:       10rem;       // 160px
+}
+
 $purple-primary: #4D6CFA;
 $grey-primary: #a8abb4;
 $black-primary: #211a1d;
@@ -12,7 +49,7 @@ $link-background-hovered: rgba(77, 108, 250, 0.5);
     font-family: "IBM Plex Sans", sans-serif;
     font-size: 18px;
     font-weight: 400;
-    color: #fff;
+    color: --white;
     text-decoration: none;
     padding: 10px 20px;
     background: $purple-primary;
@@ -24,4 +61,26 @@ $link-background-hovered: rgba(77, 108, 250, 0.5);
     &--red {
         background: #FA4C6C;
     }
+}
+
+// a {
+//     text-decoration: none;
+//     border-bottom: 1px solid var(--white);
+//     transition: border-color 100ms ease-in-out;
+
+//     &:hover {
+//         border-bottom-color: var(--midnight);
+//     }
+// }
+
+.highlight {
+    background: linear-gradient(to bottom, white 60%, var(--aero-blue) 40%);
+
+    &:hover {
+        background: linear-gradient(
+          to bottom,
+          var(--aero-blue) 60%,
+          var(--aero-blue) 40%
+        );
+      }
 }
