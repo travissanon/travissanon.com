@@ -5,7 +5,7 @@ import Introduction from "../components/introduction"
 import Posts from "../components/posts"
 import Videos from "../components/videos"
 
-import("../stylesheets/home.scss")
+import "../stylesheets/home.scss"
 
 const IndexPage = () => {
   return (

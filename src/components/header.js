@@ -8,22 +8,22 @@ const Header = ({ siteTitle }) => (
         🌑
       </span> */}
       <span className="header__title-name">
-        <Link to="/">Travis Sanon</Link>
+        <Link to="/">Travis Sanon.</Link>
       </span>
     </div>
     <div className="header__navigation">
-      <Link className="header__navigation-item" to="/about">
+      <Link className="header__navigation-item link--prominent" to="/about">
         About
       </Link>
-      <Link className="header__navigation-item" to="/articles">
+      <Link className="header__navigation-item link--prominent" to="/articles">
         Articles
       </Link>
-      <Link className="header__navigation-item" to="/videos">
+      <Link className="header__navigation-item link--prominent" to="/videos">
         Videos
       </Link>
       <a
         href="mailto:traviscsanon@gmail.com"
-        className="header__navigation-item"
+        className="header__navigation-item link--prominent"
       >
         Contact
       </a>
