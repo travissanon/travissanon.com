@@ -32,7 +32,7 @@ const Introduction = ({ siteTitle }) => (
         </span>
       </a>
       <a
-        href="https://www.youtube.com/c/DevMaterial/featured"
+        href="https://codepen.io/travissanon"
         target="_blank"
         className="button button--dark-grey"
       >
