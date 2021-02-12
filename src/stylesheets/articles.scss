@@ -2,27 +2,27 @@
 
 .articles {
   max-width: 100%;
-  margin-top: 50px;
+  margin: var(--layout-02) 0;
 
   &__header {
     order: 1;
-    font-size: 2rem;
-    margin-bottom: 18px;
+    font-size: var(--font-xl);
+    margin-bottom: var(--spacing-04);
   }
 
   &__container {
     display: grid;
     align-items: stretch;
-    margin-left: -1rem;
-    margin-right: -1rem;
+    margin-left: -0.7rem;
+    margin-right: -0.7rem;
   }
 
   &__article {
-    padding: 15px;
-    transition: all 0.1s;
+    padding: var(--spacing-04);
+    transition: all 100ms ease-in-out;
 
     &:hover {
-      background-color: $hover-background;
+      background-color: #f2f4f8;
     }
 
     @media screen and (min-width: 850px) {
@@ -42,30 +42,31 @@
 
   &__date {
     font-family: "IBM Plex Sans", sans-serif;
-    font-size: 0.8rem;
-    font-weight: 500;
-    color: $grey-primary;
+    font-size: var(--font-xxs);
+    font-weight: 400;
+    color: #121619;
     white-space: nowrap;
   }
 
   &__title {
     font-family: "IBM Plex Sans", sans-serif;
-    font-size: 0.95rem;
-    font-weight: 500;
+    font-size: var(--font-sm);
+    font-weight: 600;
     color: $black-primary;
   }
 
   &__tags {
     height: 100%;
     font-family: "IBM Plex Sans", sans-serif;
-    font-size: 0.8rem;
+    font-size: var(--font-xxs);
     text-decoration: none;
     color: $black-primary;
-    font-weight: 500;
+    font-weight: 400;
   }
 
   &__tag {
-    background: #f2f4ff;
+    background: rgb(208, 226, 255);
+    color: rgb(0, 45, 156);
     padding: 5px 10px;
     margin-left: 10px;
   }

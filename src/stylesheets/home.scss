@@ -5,8 +5,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin: var(--spacing-06) 0;
-  padding-bottom: var(--layout-03);
+  margin: var(--layout-02) 0;
   max-width: 100%;
 
   &__title-name {
@@ -58,7 +57,7 @@
 
 .introduction {
   font-family: "IBM Plex Sans", sans-serif;
-  margin: 45px 0;
+  padding: var(--layout-02) 0;
 
   &__title {
     font-size: var(--font-xxxl);
