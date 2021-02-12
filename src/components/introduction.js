@@ -1,14 +1,9 @@
 import React from "react"
-import { Feather } from "react-feather"
+import UpArrowRight from "../assets/arrow--up-right.svg"
 
 const Introduction = ({ siteTitle }) => (
   <div className="introduction">
-    <h1 className="introduction__title">
-      <span>
-        <Feather size={"40"} strokeWidth={"1.5"} />
-      </span>{" "}
-      Hi, I'm Travis.
-    </h1>
+    <h1 className="introduction__title">Hi, I'm Travis.</h1>
     <p className="introduction__description">
       I'm a front-end developer and semicolon slinger currently focusing on
       building things for the web. I learn new things and use that knowledge to
@@ -17,18 +12,34 @@ const Introduction = ({ siteTitle }) => (
     </p>
     <div className="introduction__cta">
       <a
-        href="https://travissanon.substack.com/subscribe"
+        href="https://github.com/travissanon"
         target="_blank"
         className="button"
       >
-        Join Newsletter
+        <span>
+          <span>Github</span>
+          <UpArrowRight />
+        </span>
       </a>
       <a
         href="https://www.youtube.com/c/DevMaterial/featured"
         target="_blank"
         className="button button--red"
       >
-        Subscribe on Youtube
+        <span>
+          <span>Youtube</span>
+          <UpArrowRight />
+        </span>
+      </a>
+      <a
+        href="https://www.youtube.com/c/DevMaterial/featured"
+        target="_blank"
+        className="button button--dark-grey"
+      >
+        <span>
+          <span>Codepen</span>
+          <UpArrowRight />
+        </span>
       </a>
     </div>
   </div>
