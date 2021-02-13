@@ -10,7 +10,7 @@
 
   &__title-name {
     font-weight: 700;
-    font-size: 1rem;
+    font-size: var(--font-sm);
     text-transform: lowercase;
 
     a {
@@ -47,11 +47,11 @@
   }
 
   &__navigation-item {
-    font-size: 0.9rem;
+    font-size: var(--font-xs);
     font-weight: 400;
     margin-left: var(--spacing-06);
     text-decoration: none;
-    color: $black-primary;
+    color: var(--midnight);
   }
 }
 
@@ -112,24 +112,37 @@
 
 .footer {
   font-family: "IBM Plex Sans", sans-serif;
-  margin: 25px 0 15px;
+  margin: var(--layout-02) 0;
 
   &__social-media-title {
-    font-size: 0.9rem;
-    margin-bottom: 15px;
+    font-size: var(--font-sm);
+    margin-bottom: var(--spacing-05);
+    text-transform: lowercase;
   }
 
   &__social-media-links {
     display: flex;
-    justify-content: space-between;
+    max-width: 300px;
     list-style: none;
     margin: 0;
-    max-width: 250px;
+    text-transform: lowercase;
   }
 
-  &__social-media-link a {
+  &__social-media-link {
+    font-size: var(--font-xs);
+    font-weight: 400;
+    margin-right: var(--spacing-06);
     text-decoration: none;
-    font-size: 0.9rem;
-    color: $black-primary;
+
+    a {
+      text-decoration: none;
+      border-bottom: 1px solid var(--white);
+      transition: border-color 100ms ease-in-out;
+      color: var(--midnight);
+
+      &:hover {
+        border-bottom-color: var(--midnight);
+      }
+    }
   }
 }

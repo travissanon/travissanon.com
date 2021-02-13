@@ -18,13 +18,15 @@ const Videos = ({ count }) => {
     }
 
     setVideoData(getVideoData(videoDataRaw, count))
-  }, []);
+  }, [])
 
   return (
     <StaticQuery
       query={graphql`
         query {
-          allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+          allMarkdownRemark(
+            sort: { order: DESC, fields: [frontmatter___date] }
+          ) {
             edges {
               node {
                 id
@@ -48,15 +50,16 @@ const Videos = ({ count }) => {
 
         const YoutubePlayer = ({ title, videoId, published, key }) => (
           <div className="videos__video" key={key}>
-            <iframe
-              id="ytplayer"
-              type="text/html"
-              width="336"
-              height="189"
-              src={`https://www.youtube.com/embed/${videoId}?autohide=1&showinfo=0&controls=0`}
-              frameBorder="0"
-              allowFullScreen
-            ></iframe>
+            <div className="videos__thumbnail">
+              <a
+                href={`https://www.youtube.com/watch?v=${videoId}`}
+                target="_blank"
+              >
+                <img
+                  src={`https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`}
+                />
+              </a>
+            </div>
             <div className="videos__metadata">
               <div className="videos__title">{title}</div>
               <div className="videos__date">
