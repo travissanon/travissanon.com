@@ -31,13 +31,16 @@ const Layout = ({ children }) => {
       <div
         style={{
           margin: `0 auto`,
-          maxWidth: 1080,
+          maxWidth: 1200,
           paddingTop: 0,
         }}
       >
         <Helmet>
           <title>Travis Sanon</title>
-          <meta name="description" content="I'm a front-end developer and semicolon slinger currently focusing on building things for the web. I learn new things and use that knowledge to build stuff from scratch." />
+          <meta
+            name="description"
+            content="I'm a front-end developer and semicolon slinger currently focusing on building things for the web. I learn new things and use that knowledge to build stuff from scratch."
+          />
         </Helmet>
         <main>{children}</main>
       </div>

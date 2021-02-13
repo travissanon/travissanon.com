@@ -1,14 +1,13 @@
 import React from "react"
-import { Youtube, Twitter, Linkedin } from "react-feather";
+import { Youtube, Twitter, Linkedin } from "react-feather"
 
 const Footer = ({ siteTitle }) => (
   <div className="footer">
     <div className="footer__social-media">
-      <h2 className="footer__social-media-title">Follow Me</h2>
+      <h2 className="footer__social-media-title">Follow Me.</h2>
       <ul className="footer__social-media-links">
         <li className="footer__social-media-link">
-          <a href="https://twitter.com/DevMaterial" target="_blank">
-            {/* <Twitter strokeWidth={"1.5"} /> */}
+          <a href="https://twitter.com/travissanon" target="_blank">
             Twitter
           </a>
         </li>
@@ -17,7 +16,6 @@ const Footer = ({ siteTitle }) => (
             href="https://www.youtube.com/channel/UClE-pN-OOQrRUwi6HFHmDpA"
             target="_blank"
           >
-            {/* <Youtube strokeWidth={"1.5"} /> */}
             Youtube
           </a>
         </li>
@@ -26,8 +24,17 @@ const Footer = ({ siteTitle }) => (
             href="https://www.linkedin.com/in/travis-sanon-b36593164/"
             target="_blank"
           >
-            {/* <Linkedin strokeWidth={"1.5"} /> */}
             LinkedIn
+          </a>
+        </li>
+        <li className="footer__social-media-link">
+          <a href="https://codepen.io/travissanon" target="_blank">
+            Codepen
+          </a>
+        </li>
+        <li className="footer__social-media-link">
+          <a href="https://github.com/travissanon" target="_blank">
+            Github
           </a>
         </li>
       </ul>
