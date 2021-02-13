@@ -1,6 +1,9 @@
 import React, { useEffect, useState } from "react"
 import { StaticQuery, graphql } from "gatsby"
 
+import ArrowUpRight from "../assets/arrow--up-right.svg"
+import LogoYoutube from "../assets/logo--youtube.svg"
+
 const videoDataRaw = require("../data/videos.json")
 
 const Videos = ({ count }) => {
@@ -58,6 +61,9 @@ const Videos = ({ count }) => {
                 <img
                   src={`https://img.youtube.com/vi/${videoId}/maxresdefault.jpg`}
                 />
+                <span>
+                  <LogoYoutube className="icon-logo" />
+                </span>
               </a>
             </div>
             <div className="videos__metadata">
