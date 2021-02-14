@@ -24,19 +24,18 @@
     &:hover {
       background-color: #f2f4f8;
     }
-
-    @media screen and (min-width: 850px) {
-    }
   }
 
   &__article-link {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
     text-decoration: none;
 
-    @media screen and (min-width: 620px) {
-      display: flex;
-      flex-direction: row;
-      justify-content: space-between;
-      align-items: center;
+    @media only screen and (max-device-width: 425px) {
+      align-items: flex-start;
+      flex-direction: column;
     }
   }
 
@@ -53,6 +52,7 @@
     font-size: var(--font-sm);
     font-weight: 600;
     color: $black-primary;
+    margin-right: var(--spacing-04);
   }
 
   &__tags {
@@ -62,12 +62,19 @@
     text-decoration: none;
     color: $black-primary;
     font-weight: 400;
+
+    @media only screen and (max-device-width: 425px) {
+      padding-top: var(--spacing-03);
+    }
   }
 
   &__tag {
     background: rgb(208, 226, 255);
     color: rgb(0, 45, 156);
     padding: 5px 10px;
-    margin-left: 10px;
+
+    &:not(:last-child) {
+      margin-right: var(--spacing-03);
+    }
   }
 }

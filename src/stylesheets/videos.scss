@@ -15,7 +15,6 @@
   &__container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: 1fr 1fr;
     grid-gap: var(--spacing-06) var(--spacing-06);
   }
 
@@ -63,8 +62,6 @@
     img {
       margin: 0;
       transition: all 100ms;
-      box-shadow: 0px 70px 40px -50px rgba(0, 0, 0, 0.1),
-        0px 3px 20px rgba(0, 0, 0, 0.1);
     }
 
     &:hover {
@@ -101,5 +98,14 @@
 
   #ytplayer {
     margin-bottom: 5px;
+  }
+}
+
+@media only screen and (max-device-width: 425px) {
+  .videos {
+    &__container {
+      grid-template-columns: repeat(1, 1fr);
+      grid-template-rows: 1fr;
+    }
   }
 }
