@@ -67,10 +67,10 @@ const Videos = ({ count }) => {
               </a>
             </div>
             <div className="videos__metadata">
-              <div className="videos__title">{title}</div>
-              <div className="videos__date">
+              <h2 className="videos__title">{title}</h2>
+              <p className="videos__date">
                 {parseTimestampForDate(published)}
-              </div>
+              </p>
             </div>
           </div>
         )

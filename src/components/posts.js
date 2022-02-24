@@ -31,8 +31,8 @@ const Posts = () => (
           <div className="articles__article" key={i}>
             <a className="articles__article-link" href={post.path}>
               <div className="articles__metadata">
-                <div className="articles__date">{post.date}</div>
-                <div className="articles__title">{post.title}</div>
+                <p className="articles__date">{post.date}</p>
+                <h2 className="articles__title">{post.title}</h2>
               </div>
               <div className="articles__tags">
                 {post.tags.map((tag, i) => {

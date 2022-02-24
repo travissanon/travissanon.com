@@ -1,13 +1,12 @@
 @import "./index.scss";
 
 .header {
-  font-family: "IBM Plex Sans", sans-serif;
+  
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
   margin-bottom: var(--layout-02);
   padding-top: var(--layout-02);
-  background: white;
   max-width: 100%;
   z-index: 1000;
 
@@ -44,7 +43,6 @@
 
     a {
       text-decoration: none;
-      color: var(--midnight);
     }
   }
 
@@ -63,7 +61,6 @@
 
   &__navigation {
     display: flex;
-    max-width: 300px;
     justify-content: space-between;
     text-transform: lowercase;
 
@@ -102,7 +99,6 @@
     font-weight: 400;
     margin-left: var(--spacing-06);
     text-decoration: none;
-    color: var(--midnight);
 
     @media screen and (max-width: 425px) {
       font-size: var(--font-md);
@@ -113,7 +109,7 @@
 }
 
 .introduction {
-  font-family: "IBM Plex Sans", sans-serif;
+  
   padding: var(--layout-02) 0;
 
   &__title {
@@ -174,7 +170,7 @@
 }
 
 .footer {
-  font-family: "IBM Plex Sans", sans-serif;
+  
   margin: var(--layout-02) 0;
 
   &__social-media-title {
@@ -202,7 +198,6 @@
       text-decoration: none;
       border-bottom: 1px solid var(--white);
       transition: border-color 100ms ease-in-out;
-      color: var(--midnight);
 
       &:hover {
         border-bottom-color: var(--midnight);

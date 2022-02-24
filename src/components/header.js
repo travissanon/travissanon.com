@@ -15,7 +15,7 @@ const Header = ({ siteTitle }) => {
     handleResize()
 
     window.addEventListener("resize", handleResize)
-  })
+  });
 
   return (
     <header className={`header-wrapper`}>
@@ -48,16 +48,17 @@ const Header = ({ siteTitle }) => {
               </Link>
               <Link
                 className="header__navigation-item link--prominent"
+                to="/projects"
+              >
+                Projects
+              </Link>
+              <Link
+                className="header__navigation-item link--prominent"
                 to="/articles"
               >
                 Articles
               </Link>
-              <Link
-                className="header__navigation-item link--prominent"
-                to="/videos"
-              >
-                Videos
-              </Link>
+
               <a
                 href="mailto:traviscsanon@gmail.com"
                 className="header__navigation-item link--prominent"
