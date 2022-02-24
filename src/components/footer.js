@@ -1,16 +1,10 @@
 import React from "react"
-import { Youtube, Twitter, Linkedin } from "react-feather"
 
 const Footer = ({ siteTitle }) => (
   <div className="footer">
     <div className="footer__social-media">
       <h2 className="footer__social-media-title">Follow Me.</h2>
       <ul className="footer__social-media-links">
-        <li className="footer__social-media-link">
-          <a href="https://twitter.com/travissanon" target="_blank">
-            Twitter
-          </a>
-        </li>
         <li className="footer__social-media-link">
           <a
             href="https://www.youtube.com/channel/UClE-pN-OOQrRUwi6HFHmDpA"

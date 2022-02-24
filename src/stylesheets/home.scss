@@ -1,7 +1,6 @@
 @import "./index.scss";
 
 .header {
-  
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
@@ -14,7 +13,15 @@
     position: sticky;
     top: 0;
     transition: background 100ms;
-    padding: 25px;
+    padding: 25px 25px 0;
+    svg {
+      fill: white;
+    }
+
+    a,
+    span a {
+      color: white;
+    }
 
     &-wrapper {
       margin: 0 -25px;
@@ -22,23 +29,12 @@
 
     &--navigation-open {
       background: #0f62fe;
-      animation-name: fadeInDown;
-      animation-duration: 300ms;
-
-      svg {
-        fill: white;
-      }
-
-      a,
-      span a {
-        color: white;
-      }
     }
   }
 
   &__title-name {
-    font-weight: 700;
-    font-size: var(--font-sm);
+    font-weight: 800;
+    font-size: var(--font-md);
     text-transform: lowercase;
 
     a {
@@ -66,7 +62,6 @@
 
     a {
       text-decoration: none;
-      border-bottom: 1px solid var(--white);
       transition: all 100ms ease-in-out;
 
       &:hover {
@@ -78,7 +73,7 @@
       flex-direction: column;
       align-items: flex-end;
       justify-content: center;
-      padding: var(--spacing-04) 0 var(--spacing-03);
+      padding: var(--spacing-06) 0;
       animation-name: fadeInLeft;
       animation-duration: 200ms;
 
@@ -96,14 +91,16 @@
 
   &__navigation-item {
     font-size: var(--font-xs);
-    font-weight: 400;
+    font-weight: 600;
+    opacity: 0.5;
     margin-left: var(--spacing-06);
     text-decoration: none;
 
     @media screen and (max-width: 425px) {
       font-size: var(--font-md);
-      font-weight: 700;
+      font-weight: 600;
       margin: var(--spacing-02) 0;
+      opacity: 1;
     }
   }
 }
@@ -170,7 +167,6 @@
 }
 
 .footer {
-  
   margin: var(--layout-02) 0;
 
   &__social-media-title {
@@ -182,7 +178,6 @@
   &__social-media-links {
     display: flex;
     flex-wrap: wrap;
-    max-width: 300px;
     list-style: none;
     margin: 0;
     text-transform: lowercase;
@@ -196,7 +191,6 @@
 
     a {
       text-decoration: none;
-      border-bottom: 1px solid var(--white);
       transition: border-color 100ms ease-in-out;
 
       &:hover {
@@ -222,16 +216,5 @@
   100% {
     opacity: 1;
     transform: translateX(0);
-  }
-}
-
-@keyframes fadeInDown {
-  0% {
-    opacity: 0;
-    transform: translateY(-20px);
-  }
-  100% {
-    opacity: 1;
-    transform: translateY(0);
   }
 }
